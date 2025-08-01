@@ -42,11 +42,6 @@ This project is a *Startup Blueprint Generator*, an agentic AI system leveraging
   
 - Access the interface and start generating your startup blueprint by following on-screen instructions.
 
-## Project Structure
-
-- /src — Core source code for agentic AI and integrations
-- /config — Configuration files
-- /docs — Documentation and guides
 
 ## Contributing
 
