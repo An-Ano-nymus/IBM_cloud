@@ -52,10 +52,6 @@ This project is a *Startup Blueprint Generator*, an agentic AI system leveraging
 
 Contributions are welcome! Please open an issue or submit a pull request for any feature suggestions or bug reports.
 
-## License
-
-[MIT](LICENSE)
-
 ## Acknowledgements
 
 - [IBM Watson Assistant](https://www.ibm.com/cloud/watson-assistant)
